@@ -1,0 +1,18 @@
+div#headerContainer {
+    background-color: #4A90E2;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    height: 80px;
+
+    color: #fff;
+    font-size: 16pt;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.item{
+    align-self: center;
+    margin: 0px 50px;
+}
